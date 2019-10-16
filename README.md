@@ -4,6 +4,13 @@
 
 ## Build Setup
 
+
+![image](homed.png)
+![image](search.png)
+
+
+
+
 ```bash
 # install dependencies
 $ npm install
